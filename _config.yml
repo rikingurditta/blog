@@ -1,0 +1,11 @@
+title: Rikin's Spooky Blog
+description: >-
+  Spooky posts
+url:                 'https://rikingurditta.github.io'
+baseurl:             '/blog'
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Rikin Gurditta
+  url:               rikingurditta.github.io
