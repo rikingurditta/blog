@@ -2,19 +2,17 @@
 <html lang="en">
     {% include head.html %}
     <body>
-        <div class="container-fluid" style="padding: 0px">
-            {% include navbar.html %}
-            <div class="content">
-                <div class="row justify-content-md-center use-page-bg-colour" style="min-height: 30vh;">
-                    <div class="col-md-4 my-auto">
-                        <h1>{{ page.title }}</h1>
-                    </div>
-                    <div class="col-md-4"></div>
+        {% include navbar.html %}
+        <div class="container-fluid content">
+            <div class="row justify-content-md-center use-page-bg-colour" style="min-height: 30vh;">
+                <div class="col-md-4 my-auto">
+                    <h1>{{ page.title }}</h1>
                 </div>
-                <div class="row justify-content-md-center text-content" style="min-height: 30vh;">
-                    <div class="col-md-8">
-                        {{ content }}
-                    </div>
+                <div class="col-md-4"></div>
+            </div>
+            <div class="row justify-content-md-center text-content" style="min-height: 30vh;">
+                <div class="col-md-8">
+                    {{ content }}
                 </div>
             </div>
         </div>
