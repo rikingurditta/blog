@@ -48,7 +48,7 @@ body {
     margin: 0;
 }
 
-p, span, ul {
+p, span, ul, ol {
     font-size: 12pt;
 }
 
@@ -58,7 +58,7 @@ p, span, ul {
 }
 
 @media screen and (min-width: 768px) {
-    p, span, ul {
+    p, span, ul, ol {
         font-size: 14pt;
     }
     .expand-text {
