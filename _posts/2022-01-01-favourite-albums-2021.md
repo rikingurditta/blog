@@ -27,3 +27,4 @@ this page is a wip if you see it now then u wrong for that
 - ~~Bnny - *Everything*~~
 - ~~Your Old Droog - *TIME*~~
 - ~~Bladee - *The Fool*~~
+- ~~Clairo - *Sling*~~
