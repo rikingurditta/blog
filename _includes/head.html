@@ -11,4 +11,25 @@
 		}
 		{% endif %}
 	</style>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      TeX: {
+        Macros: {
+          N: "{\\mathbb N}",
+          Z: "{\\mathbb Z}",
+          Q: "{\\mathbb Q}",
+          R: "{\\mathbb R}",
+          C: "{\\mathbb C}",
+          curlies: ["{\\lbrace #1 \\brace}", 1],
+          inv: ["{#1^{-1}}", 1]
+        }
+      },
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        processEscapes: true
+      }
+
+    });
+    </script>
 </head>
