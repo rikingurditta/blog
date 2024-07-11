@@ -5,13 +5,17 @@ colour: "#FFDDDD"
 
 ---
 
-Note: I may very well regret posting this at some point in the near or distant future! I also cannot claim to speak on the interactions between participators of the encampment in question and the administration of the University of Waterloo.  In general, I will not comment on all allegations made by the university, but that is not relevant to my thoughts on the ones I will address.
+**Note:**
+
+I may very well regret posting this at some point in the near or distant future! I also cannot claim to speak on the interactions between participators of the encampment in question and the administration of the University of Waterloo. In general, I will not comment on all allegations made by the university, but that is not relevant to my thoughts on the ones I will address.
+
+For further context, I did not participate in this encampment.
 
 I think my thoughts here may be considered quite sensible in the future.
 
 ---
 
-Recently, students (and possibly faculty, I'm not sure) set up an encampment on the Grad House Green in the centre of the University of Waterloo campus. The university administration responded by issuing an eviction notice, and eventually [suing them](https://www.thestar.com/news/ontario/uwaterloo-sues-pro-palestinian-protest-encampment-seeks-1-5m-in-compensation/article_5002a1ab-beae-5e19-bb11-f6abc4b90947.html) for so supposedly *1.5 million dollars worth of damages* encompassing "property repairs, operational disruptions, diminished property values and reputational harm stemming from the encampment that began on May 13."
+Recently, students (and possibly faculty, I'm not sure) set up an encampment on the Grad House Green in the centre of the University of Waterloo campus, to protest the university's involvement in the ongoing military action taken by the state of Israel against the people of Palestine. The university administration responded by issuing an eviction notice, and eventually [suing them](https://www.thestar.com/news/ontario/uwaterloo-sues-pro-palestinian-protest-encampment-seeks-1-5m-in-compensation/article_5002a1ab-beae-5e19-bb11-f6abc4b90947.html) for so supposedly *1.5 million dollars worth of damages* encompassing "property repairs, operational disruptions, diminished property values and reputational harm stemming from the encampment that began on May 13."
 
 > The school alleges the protesters “engaged in deliberate actions aimed at damaging the university, its property, reputation, and goodwill in the community,” including demonstrations, misinformation campaigns, graffiti and intimidation of students and staff near the site.
 >
@@ -23,7 +27,7 @@ Here is the aftermath of the encampment: some grass was killed.
 
 ![img](https://rikingurditta.github.io/blog/img/encampment-aftermath.png)
 
-Not pictured here is the University of Waterloo sign, which had a bag over it during the presence of the encampment, and which now does not. So I don't think any significant property damage was done, let alone $1,500,000 worth. If you or someone you know has had property by members of the encampment on the University grounds during its presence, please feel free to contact me and I would love to issue a retraction and apology.
+Not pictured here is the University of Waterloo sign, which had a bag over it during the presence of the encampment, and which now does not. Also not pictured here is the graffiti, because it was on the wooden fences around the encampment which were removed when the encampment vacated. So I don't think any significant property damage was done, let alone $1,500,000 worth. If you or someone you know has had property by members of the encampment on the University grounds during its presence, please feel free to contact me and I would love to issue a retraction and apology.
 
 As for operational disruptions, I hope the university did not lose too much money being unable to water and cut the grass. About diminished property values, I do not think the university was planning on selling the green space in the centre of campus, nor do I think its value depends on speculation on its land, nor do I think the health of the grass on its land significantly affects its land value.
 
