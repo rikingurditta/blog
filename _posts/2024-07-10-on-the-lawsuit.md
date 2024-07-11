@@ -14,6 +14,7 @@ I think my thoughts here may be considered quite sensible in the future.
 Recently, students (and possibly faculty, I'm not sure) set up an encampment on the Grad House Green in the centre of the University of Waterloo campus. The university administration responded by issuing an eviction notice, and eventually [suing them](https://www.thestar.com/news/ontario/uwaterloo-sues-pro-palestinian-protest-encampment-seeks-1-5m-in-compensation/article_5002a1ab-beae-5e19-bb11-f6abc4b90947.html) for so supposedly *1.5 million dollars worth of damages* encompassing "property repairs, operational disruptions, diminished property values and reputational harm stemming from the encampment that began on May 13."
 
 > The school alleges the protesters “engaged in deliberate actions aimed at damaging the university, its property, reputation, and goodwill in the community,” including demonstrations, misinformation campaigns, graffiti and intimidation of students and staff near the site.
+
 > \- Paola Loriggio, The Canadian Press via The Toronto Star
 
 The university withdrew this lawsuit after the encampment vacated. But this does not reflect a good faith engagement with the protest, only a lack of vindictiveness (which admittedly is not insignificant, since the sort of pettiness that might compel them to continue litigating definitely does exist in the administrations of our schools, businesses, and governments). As someone who does believe in the political cause in good faith, I think it's useful to demonstrate that this lawsuit was illegitimate.
