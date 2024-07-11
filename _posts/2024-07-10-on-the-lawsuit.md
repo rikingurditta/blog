@@ -5,7 +5,7 @@ colour: "#FFDDDD"
 
 ---
 
-Note: I may very well regret posting this at some point in the near or distant future! I also cannot claim to speak on the interactions between participators of the encampment in question and the administration of the University of Waterloo.  In general, I will not comment on the other allegations made by the university, but that is not relevant to my thoughts on the ones I will address.
+Note: I may very well regret posting this at some point in the near or distant future! I also cannot claim to speak on the interactions between participators of the encampment in question and the administration of the University of Waterloo.  In general, I will not comment on all allegations made by the university, but that is not relevant to my thoughts on the ones I will address.
 
 I think my thoughts here may be considered quite sensible in the future.
 
