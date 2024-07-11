@@ -15,7 +15,7 @@ Recently, students (and possibly faculty, I'm not sure) set up an encampment on 
 
 > The school alleges the protesters “engaged in deliberate actions aimed at damaging the university, its property, reputation, and goodwill in the community,” including demonstrations, misinformation campaigns, graffiti and intimidation of students and staff near the site.
 >
-> \- Paola Loriggio, The Canadian Press via The Toronto Star
+> \- Paola Loriggio, *The Canadian Press* via *The Toronto Star*
 
 The university withdrew this lawsuit after the encampment vacated. But this does not reflect a good faith engagement with the protest, only a lack of vindictiveness (which admittedly is not insignificant, since the sort of pettiness that might compel them to continue litigating definitely does exist in the administrations of our schools, businesses, and governments). As someone who does believe in the political cause in good faith, I think it's useful to demonstrate that this lawsuit was illegitimate.
 
