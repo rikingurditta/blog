@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "hobbies to pick up if you are bored 1"
+title: "HTPUIYAB - Making salads"
 colour: "#FFDDDD"
 ---
 
