@@ -20,7 +20,7 @@ The university withdrew this lawsuit after the encampment vacated. But this does
 
 Here is the aftermath of the encampment: some grass was killed.
 
-![img](../_img/encampment-aftermath.png)
+![img](img/encampment-aftermath.png)
 
 Not pictured here is the University of Waterloo sign, which had a bag over it during the presence of the encampment, and which now does not. So I don't think any significant property damage was done, let alone $1,500,000 worth. If you or someone you know has had property by members of the encampment on the University grounds during its presence, please feel free to contact me and I would love to issue a retraction and apology.
 

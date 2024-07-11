@@ -4,8 +4,6 @@ title: "HTPUIYAB - Making salads"
 colour: "#FFDDDD"
 ---
 
-## Hobbies to pick up if you are bored - Making salads
-
 If you haven't thought about this before, a surprising amount of thought and technique can go into creating what seems like the simplest food - a salad. Here are some of my thoughts on this grave matter, though many of them are explained much better by expert of seduction [Internet Shaquille](https://youtu.be/UuJX7XLWpaw).
 
 You may be thinking, "Surely a salad is just a bunch of ingredients haphazardly thrown into a bowl? Just raw vegetables (and hard boiled eggs if you're kinda nasty with it)? I don't even like healthy food." And you would be dead wrong. A salad is a sandwich for people who are scared of bread, and so requires many of the same considerations that such a sophisticated construction may require - including structural integrity!
