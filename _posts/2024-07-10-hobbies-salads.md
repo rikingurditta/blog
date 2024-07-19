@@ -1,8 +1,10 @@
 ---
 layout: default
-title: "Hobbies to pick up if you are bored - Making salads"
+title: "HTPUIYAB - Making salads"
 colour: "#FFDDDD"
 ---
+
+# Hobbies to pick up if you are bored - Making salads
 
 If you haven't thought about this before, a surprising amount of thought and technique can go into creating what seems like the simplest food - a salad. Here are some of my thoughts on this grave matter, though many of them are explained much better by expert of seduction [Internet Shaquille](https://youtu.be/UuJX7XLWpaw).
 
