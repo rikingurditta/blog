@@ -78,3 +78,7 @@ blockquote {
 .text-content {
     padding: 25px 0 25px 0;
 }
+
+.MJXc-display {
+    padding: 1em 0em !important;
+}
