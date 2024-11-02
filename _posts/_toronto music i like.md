@@ -20,7 +20,9 @@ This piqued my interest, to say the least. What
 
 ## Black Dresses
 
+## Cootie Catcher
 
+I found out about Cootie Catcher when I visited [Toutoune Gallery](https://toutounegallery.com/) 
 
 ### TODO
 
