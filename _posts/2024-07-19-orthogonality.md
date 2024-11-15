@@ -27,7 +27,7 @@ If you haven't taken CS 370 or aren't currently taking it, you probably won't ha
 The statement of orthogonality we see in class is
 
 $$
-\frac{1}{N}\displaystyle \sum_{n=0}^{N-1} W^{n(a-b)} = \delta_{a,b}
+\frac{1}{N}\displaystyle \sum_{n=0}^{N-1} W^{n(a-b)} = \delta_{a,b} {\color{grey}\text{ (where } W=e^{i2\pi/N})}
 $$
 
 In class you see a proof of this based on the geometric series formula, which I think is pretty straightforward and makes algebraic and geometric sense. But there's another way to look at it (and the reason why it's called orthogonality):
@@ -191,6 +191,6 @@ This isn't true! Since this summation doesn't go all the way up to $N$, it *does
 
 ## Sources/Further reading
 
-I wrote this based on the 7th chapter, "*Finite Fourier Analysis*" of the excellent book [*Fourier Analysis: An Introduction*](https://press.princeton.edu/books/hardcover/9780691113845/fourier-analysis) by Elias M. Stein and Rami Shakarchi. I highly recommend it if you liked this unit of CS 370!
+I wrote this based on the 7th chapter, "*Finite Fourier Analysis*", of the excellent book [*Fourier Analysis: An Introduction*](https://press.princeton.edu/books/hardcover/9780691113845/fourier-analysis) by Elias M. Stein and Rami Shakarchi. I highly recommend it if you liked this unit of CS 370!
 
 I also used my own knowledge and intuition of linear algebra, and my go-to book on that is [*Linear Algebra Done Right*](https://linear.axler.net/) by Sheldon Axler (which is open access!). Chapter 7 on "*Operators on Inner Product Spaces*" (aka *relationships between linear transformations and dot products*) is particularly relevant here.
