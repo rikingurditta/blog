@@ -19,7 +19,7 @@ For the purpose of this piece, I'll define fascism as "the ultranationalist, hyp
 
 ### Life; the bourgeois
 
-Fascism is well known to be a middle class ideology, and Canada might have the middest of middle classes. Life in this country I imagine post-WWI Germany, except through the most boring fun house mirror ever. If you've ever wondered how Hitler got so many rabid anticommunists to treat their neighbours like scum, I'm guessing you've never met an upset suburbanite.
+Fascism is well known to be a middle class ideology, and Canada might have the middest of middle classes. Life in this country is how I imagine life in Germany in the 30s, except through the most boring fun house mirror ever. If you've ever wondered how Hitler got so many rabid anticommunists to treat their neighbours like scum, I'm guessing you've never met an upset suburbanite.
 
 I think it is important to note the outsized influence of sprawling suburban hellscapes on the country. A telling example is the City of Toronto, which was a small urban area (now *Old Toronto*) until it was [amalgamated](https://www.thecanadianencyclopedia.ca/en/article/torontos-struggle-against-amalgamation) with five suburbs. These suburbs had conservative political leanings, who now had an outsized say in the policy and planning of the core of Toronto. Furthermore, the amalgamation allowed the revenue from the productive inner city to be reinvested into [financially insolvent](https://youtu.be/7IsMeKl-Sv0) suburbs, basically providing a subsidy to home owners (read: land owners).
 
@@ -31,7 +31,7 @@ Unstated in this analysis is the number of home owners there are. So many people
 
 [![barbarian-suburbs](https://www.slashfilm.com/img/gallery/barbarian-buries-its-nastiest-twists-in-the-most-satisfying-way-possible/you-can-never-really-know-who-your-neighbors-are-1663018278.webp)](https://letterboxd.com/film/barbarian-2022/)
 
-These are the particularly vulgar examples, but in [*Capital City:Gentrification and the Real Estate State*](https://www.versobooks.com/en-gb/products/602-capital-city) Stein explains how really, the entirety of city planning is now beholden to real estate capital. Other parts of our way of living are similarly captured by the bourgeois through the socialization of corporate costs. In [*Blackshirts and Reds*](https://communistusa.org/a-communist-review-of-michael-parentis-blackshirts-and-reds/), Parenti recalls the strengthening of austerity in post-WW1 Italy:
+These are the particularly vulgar examples, but in [*Capital City: Gentrification and the Real Estate State*](https://www.versobooks.com/en-gb/products/602-capital-city) Stein explains how really, the entirety of city planning is now beholden to real estate capital. Other parts of our way of living are similarly captured by the bourgeois through the socialization of corporate costs. In [*Blackshirts and Reds*](https://communistusa.org/a-communist-review-of-michael-parentis-blackshirts-and-reds/), Parenti recalls the strengthening of austerity in post-WW1 Italy:
 
 > "To maintain profit levels, the large landowners and industrialists would have to slash wages and raise prices. The state in turn would have to provide them with massive subsidies and tax exemptions. To finance this corporate welfarism, the populace would have to be taxed more heavily, and social services and welfare expenditures would have to be drastically cut—measures that might sound familiar to us today."
 
@@ -57,7 +57,7 @@ Did you know that you can get fined \$630 for not speaking English on the GO tra
 
 This isn't a hypothetical - I have watched these fines get added to a fare evasion ticket, as the conclusion to an hour of screaming in English at a passenger who only spoke Punjabi. Commanding someone to "speak English motherfucker" is so passé, we're civilized now.
 
-> Did you know that you can also get fined \$105 for speaking very good English? I quietly and calmly told the fare inspectors what I thought of their actions. In return, they gave me the appropriate penalty for when you "Use profane language on Authority property" ($105).
+> Did you know that you can also get fined for speaking very good English? I quietly and calmly told the fare inspectors what I thought of their actions. In return, they gave me the appropriate penalty for when you "Use profane language on Authority property" (\$105).
 
 Did you know that there is no minimum wage? That's right, if you're an immigrant your employer [doesn't have to pay you](https://www.cbc.ca/news/canada/toronto/workers-owed-60m-unpaid-wages-ontario-1.7376061) for your work. What are you going to do about it? Maybe you can do something if your community has [strong labour organization](https://www.instagram.com/p/C52D3bLsgL3/), but if you're on your own then... [shit happens](https://www.cbc.ca/news/canada/wage-theft-ontario-workers-1.6913090), I guess!
 
