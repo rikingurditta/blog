@@ -27,7 +27,7 @@ If you haven't taken CS 370 or aren't currently taking it, you probably won't ha
 The statement of orthogonality we see in class is
 
 $$
-\frac{1}{N}\displaystyle \sum_{n=0}^{N-1} W^{n(a-b)} = \delta_{a,b} {\color{grey}\text{ (where } W=e^{i2\pi/N})}
+\frac{1}{N} \sum_{n=0}^{N-1} W^{n(a-b)} = \delta_{a,b} {\color{gray}\quad (\text{where } W=e^{i2\pi/N})}
 $$
 
 In class you see a proof of this based on the geometric series formula, which I think is pretty straightforward and makes algebraic and geometric sense. But there's another way to look at it (and the reason why it's called orthogonality):
@@ -116,7 +116,9 @@ $$
 So the matrix to go from our DFT basis to the standard basis would be
 
 $$
-M_{DFT \rightarrow std} = \begin{pmatrix} \vdots & & \vdots \\ \b_0 & \cdots & \b_{N-1} \\ \vdots & & \vdots \end{pmatrix} =
+\begin{align*}
+M_{DFT \rightarrow std} &= \begin{pmatrix} \vdots & & \vdots \\ \b_0 & \cdots & \b_{N-1} \\ \vdots & & \vdots \end{pmatrix} \\
+&=
 \frac{1}{\sqrt N} \begin{pmatrix}
 W^0 & W^0 & W^0 & \cdots & W^0 \\
 W^0 & W^1 & W^2 & \cdots & W^{N-1} \\
@@ -124,6 +126,7 @@ W^0 & W^2 & W^4 & \cdots & W^{2(N-1)} \\
 \vdots & \vdots & \vdots & \ddots & \vdots \\
 W^0 & W^{N-1} & W^{2(N-1)} & \cdots & W^{(N-1)(N-1)}
 \end{pmatrix}
+\end{align*}
 $$
 
 So the inverse of this matrix should take us from the standard basis (original domain) to the DFT basis. From linear algebra, we know that if the columns of a matrix are orthonormal, then its inverse is its conjugate transpose (its *adjoint*), so
@@ -141,13 +144,16 @@ $$
 So if we want to write $\f/\sqrt N$ in the DFT basis, we multiply it by the change of basis above, and we recover the DFT matrix we saw in class!
 
 $$
-\F = M_{std \rightarrow DFT} \parens{\frac{1}{\sqrt N} \f} = \underbrace{\frac{1}{N} \begin{pmatrix}
+\begin{align*}
+\F &= M_{std \rightarrow DFT} \parens{\frac{1}{\sqrt N} \f} \\
+&= \underbrace{\frac{1}{N} \begin{pmatrix}
 W^0 & W^0 & W^0 & \cdots & W^0 \\
 W^0 & W^{-1} & W^2 & \cdots & W^{-(N-1)} \\
 W^0 & W^{-2} & W^4 & \cdots & W^{-2(N-1)} \\
 \vdots & \vdots & \vdots & \ddots & \vdots \\
 W^0 & W^{-(N-1)} & W^{-2(N-1)} & \cdots & W^{-(N-1)(N-1)}
 \end{pmatrix}}_M \f
+\end{align*}
 $$
 
 ### Element-wise form
