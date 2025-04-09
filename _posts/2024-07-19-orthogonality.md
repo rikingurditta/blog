@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The discrete Fourier transform and orthogonality"
+title: "CS 370 - The discrete Fourier transform and orthogonality"
 colour: "#BBBBFF"
 ---
 
