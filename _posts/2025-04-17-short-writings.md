@@ -1,0 +1,45 @@
+---
+layout: default
+title: "A few short writings"
+colour: "#FF8060"
+---
+
+I have a few more philosophical and political and personal pieces in  the works for this blog, but that’s not stuff I do. This is stuff I do.
+
+---
+
+## Pros and cons
+
+I'm quite good at sudoku, I can solve most puzzles and I can do so quite quickly. I've learned a lot of techniques for ruling out options in cells, but I can't remember their names - X-wing, swordfish, whatever, I don't know what those mean but I know how to use them. I'd like to write a sudoku solver someday, or maybe just a general graph colouring program. Graph problems are always fun to program!
+
+I'm not very good with levity. I take myself way too seriously, and so all of my mistakes feel grave, whether or not they are impactful. The issue is not often the concrete effects of my mistakes so much as their spirit - a mistake often reflects an aspect that has been left unchecked. What we can learn from mistakes is how to prevent them in the future, but this presents a paradox: Common mistakes are well-known and thus so are the measures against them, so they are inexcusable. On the other hand, uncommon mistakes reflect uncommom unpreparedness. This is inexcusable as well, outside of uncommon situations. It's quite rare that I find myself in uncommon situations; I lead what I affectionately call a "boring" life. And yet I make mistakes - What can I say for myself? This is where my lack of levity glares through. I don't need to say anything for myself, it's really not a big deal.
+
+I'd consider myself very familiar with linear algebra too. The field under that name doesn't go very deep: When someone says linear algebra, they're generally referring to the kind you learn in the first couple years of an undergraduate STEM program - the study of finite-dimensional vector spaces with an inner product. More complicated studies of it usually go by the names "functional analysis", "representation theory", "numerical analysis". I know a little bit about these, but I won't claim to be proficient the way I do with "linear algebra". I've listed myself as a tutor for various courses on University of Waterloo's TutorConnect portal, but linear algebra is by far my favourite one to help with.
+
+I'm somewhat poorly socialized. As a child I did not really know how to behave with other children, often acting snobbish, introverted, uncertain. Past mere awkwardness, it was an inability to figure out what the situation called for. When asked about something, I would give way too much information. When playing a game, I was unable to keep my energy and spirits up. When meeting new people, I usually made them uneasy by acting either too cold or too familiar, too formal or too teasing. I think my continued awkwardness is the legacy of that socialization - even my interactions with close friends can be contrived and robotic, or can be chaotic and frantic. Being uncertain of how to act, sometimes I am careful to be polite, listen intently and respond mildly, ask questions - just like an HR associate conducting an interview might. Other times, I forget all restraint and talk at length about the asinine topics that populate my resting mind such as the dating history of online alt-left podcasters, or the legacy of the synthesizer Massive developed by Native Instruments, or the revisionist rehabilitation of Banderite Ukrainian ultranationalism.
+
+I'm not bad at making banana bread.
+
+## Diary 2023-10-01
+
+Ria told me to journal so here I am! I'm on the toilet, still a bit drunk, listening to BEEF by Evaboy (AOTY). Today was nice, didn't get much work done but it's okay :) Went on a very nice walk with Ria, found a weird document in the sand near the 2nd Crater, asked out an enby on Grindr, ate ice cream cake, had a few beers, spent time with Shadow, told many people I love them. :)
+
+## Excerpt from "The origin of the world: A review of current theoletic results"
+
+The old world was ancient, older than can be understood: It had a lifetime spanning millions of generations. Very little is known about it as no material remnants can be found, though archaeological evidence reveals its core properties. It has been discovered that this world's characteristic feature was twoness. Earliest dated artifacts in our world tend to contain dualities, starker as they date earlier. For example, fragmented remains of exoskeleta are found to be increasingly bisymmetric with age of origin\[0\]\[7\]. The oldest works of humans all depict ourselves looking away from each other, some left and some right\[3\].
+
+Leading theoletical models using the fast infinite element method (FIEM), culled spectral geometric annealing (S.GA), and ephemeral Galerkin methods (EGMs) all suggest that the demise of the old world came from its twoness\[1\]\[4\]\[5\]\[6\]\[8\]. Theolists agree that as the world polarized it lost the ability to form stable equilibria. No longer did a pendulum come near rest at the bottom, rather it was passed to and fro above its axis. Near the end of the old world's life, it reached a state akin to the pendulum balancing perfectly above its axis. All its matter had been gathered into two equally massive iota, directly headed for each other to break the pendulum's tie. However, as their mass was so large, they each exploded upon contact with the other. The pendulum fell off and the face of the clock shattered\[2\].
+
+Each iotum's mass kept its velocity - half of the universe moving left, and the other half moving right. As they got farther apart, they decelerated, as the centre of mass was halfway between all things. Eventually everything halted and began a slow return. By the time the mass returned to the centre, it was all moving almost as fast.
+
+Our world was formed when the old world's remnants recombined. In its rigor mortis the old world's matter still gripped twoness, as half of the constituent material had leftward momentum and the other half rightward. Thus, twoness was inducted into our world - but not so simply.
+
+Our world formed in great heat, still glowing from the collision of the old world's two halves and from their recombination. Thus, theolists conjecture that it was formed in more chaos than the old world itself, and so the manifestation of twoness was subverted and confused\[10\]\[11\]. There are two of many things, but not all things - we have one Sun, one Moon, and one Mars. We have one Zero, and three signs of numbers - positive, zero, and negative. We have one humanity\[0\]\[2\]\[4\]\[12\].
+
+However, where we used to assume oneness we sometimes discover twoness. For example, the planet Venus has been known to humanity for its whole existence, since it can be seen with the naked eye. And so, it was thought that there is only one planet nearer to the Sun than Earth. However, the invention of the telescope discovered that there is another - Mercury. Another instance is sound - it was first assumed that information propagated through the ether, and that sound existed as units of information among nothing. It was discovered that instead, sound travels as waves of compression and dilation of a medium, high and low pressure\[14\]. Thus, music machines must move in two directions, forward and back.
+
+The spirit of humanity shows evidence of undergoing a splitting process\[12\]. Many other religions describe such an event, though the physical evidence for this is weak. It has been argued that humanity displays twoness in gender, chirality, mentality, virtue, and more - each such conjecture has been promptly disproven\[0\]\[12\]\[14\] (and might I add, plainly absurd). Theolists instead argue that humanity may instead have been itself split from another thing\[11\]. The archaeological record contains anomalies: artifacts that could not have been created by humanity, and yet bear a similar signature. Chief among these is \[make up citation\], a human skull bearing perfectly square-shaped holes\[0\]\[7\]. Humanity is not capable of boring these into a head, and no animal has displayed the intelligence or biology necessary to construct geometry as was found here. Another example is the crater, which also reflects some perfect geometric properties\[21\]\[22\], but whose scale is untenably large for the labour of any group of people and for the design of any animal. In general, many artifacts have been found which hint toward the design of humanity, but which involve intractable violence that could not have been committed by a person. The leading theoletic frameworks encapsulate these as artifacts of "Gar", a creature who may be dual to humanity\[0\]\[1\]\[4\]\[5\]\[6\]\[7\]\[8\]. This may be a new discovery of twoness where it was previously thought there was oneness.
+
+While the spirit of twoness has been subverted in many cases, its nature cannot be. Thus, theolists argue that speech is a direct (though immaterial) remnant of the old world\[2\]\[3\]. In twoness comes dialectic relations: information must be passed between the two aspects of any thing, and so each thing "speaks" to its opposite. Human speech
+
+(document incomplete)
