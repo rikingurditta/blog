@@ -60,6 +60,10 @@ blockquote {
     padding: 0 1rem;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    padding: 1rem 0 .25rem 0;
+}
+
 .expand-text {
     font-size: 12pt;
     width: 95%;
