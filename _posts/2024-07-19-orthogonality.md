@@ -110,14 +110,14 @@ We know from linear algebra that we can construct a matrix to go between two bas
 
 $$
 \text{if our basis is } \mathcal B = \curlies{\p_i}_{i=0}^{N-1} \\
-\text{ then the change of basis matrix is } M_{\mathcal B \to std} = \begin{pmatrix} \vdots & & \vdots \\ \p_0 & \cdots & \p_{N-1} \\ \vdots & & \vdots\end{pmatrix}
+\text{ then the change of basis matrix is } M_{\mathcal B \to std} = \begin{pmatrix} | & & |  \\ \p_0 & \cdots & \p_{N-1} \\ | & & | \end{pmatrix}
 $$
 
 So the matrix to go from our DFT basis to the standard basis would be
 
 $$
 \begin{align*}
-M_{DFT \rightarrow std} &= \begin{pmatrix} \vdots & & \vdots \\ \b_0 & \cdots & \b_{N-1} \\ \vdots & & \vdots \end{pmatrix} \\
+M_{DFT \rightarrow std} &= \begin{pmatrix} | & & |  \\ \b_0 & \cdots & \b_{N-1} \\ | & & |  \end{pmatrix} \\
 &=
 \frac{1}{\sqrt N} \begin{pmatrix}
 W^0 & W^0 & W^0 & \cdots & W^0 \\
