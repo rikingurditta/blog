@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "On the lawsuit against the encampment"
-colour: "#FFDDDD"
+colour: "#BBCCBB"
 
 ---
 
