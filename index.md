@@ -30,3 +30,7 @@ Here are some extremely short pieces by other people that I like:
 - [*What's that got to do with the price of eggs?* by Alexandra Scaggs](https://theehedge.substack.com/p/whats-that-got-to-do-with-the-price) - looking closely at "pricing dynamics that arise from inelastic demand"
 - [*how to misgender yourself for fun* by Sam Bodrojan](https://cchelmetgirl.substack.com/p/how-to-misgender-yourself) - a collection of little things on being trans
 - [*30 Rock* by Matthew Goldin](https://matthewgoldin.substack.com/p/30-rock)
+
+### Substack
+
+I'm on Substack as [@bubberducky](https://bubberducky.substack.com), where I mirror everything I post here. Feel free to subscribe, though I like to think the reading experience is better on my website.

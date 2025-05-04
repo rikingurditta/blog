@@ -26,15 +26,16 @@ I found out about Cootie Catcher when I visited [Toutoune Gallery](https://touto
 
 ### TODO
 
-- black dresses
-- westelaken
-- guard petal
-- cootie catcher
-- s.h.i.t.
-- luge
-- jonah yano
-- pup
-- kingdom of birds
-- little kid
-- jane inc
-- no tourists
+- [ ] black dresses
+- [ ] westelaken
+- [ ] guard petal
+- [ ] cootie catcher
+- [ ] s.h.i.t.
+- [ ] luge
+- [ ] jonah yano
+- [ ] pup
+- [ ] kingdom of birds
+- [ ] little kid
+- [ ] jane inc
+- [ ] no tourists
+- [ ] femtanyl
