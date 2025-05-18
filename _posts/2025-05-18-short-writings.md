@@ -83,11 +83,15 @@ The newest album from MIKE, the "leader of the arcane", and Tony Seltzer, unsung
 
 A perfect combo for a perfect switch-up, the duo seamlessly translate their eccentricities to this new style. Big MIKE's effortless extended rhyme schemes circle hypnotically as tracks spiral into each other, a perfectly unpretentious application of the height of technique. *DON'T FORCE IT* though - thirty MIKE bars with one rhyme scheme sound as natural as a couplet, as throwaway as a lesser rapper's verse about a lesser topic.
 
-> Can't be proud what you done for success
-> Can't be shoutin' when nothin' was said
-> That's my fault, my humble request
-> Think I found the trouble I dreamt
-> Sour (*Tony*), set, all them clouds above me again
+> *Can't be proud what you done for success*
+>
+> *Can't be shoutin' when nothin' was said*
+>
+> *That's my fault, my humble request*
+>
+> *Think I found the trouble I dreamt*
+>
+> *Sour (Tony), set, all them clouds above me again*
 
 Meanwhile, Tony Seltzer pulls out all the stops - borrowing Iglooghost's keenness to let no two bars of a track be the same, Seltzer stuffs each beat over-full with musicality. Whether it's ivvys1's sparse drums on *Dolemite*, or the playful bass slaps on *DON'T FORCE IT*, the hats that sit next to (not inside!) the claps on *Hell Date*, or the chops and screws and perfect transitions throughout the album, there's never an aspect of a track that hasn't clearly been doted on.
 
