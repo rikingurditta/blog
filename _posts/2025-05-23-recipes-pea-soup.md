@@ -2,7 +2,6 @@
 layout: default
 title: "Broke ass dumb ass recipes - Pea soup"
 colour: "#FF8060"
-
 ---
 
 # Broke ass dumb ass recipes 🫛
@@ -40,4 +39,4 @@ I fucked up. I like snacking on frozen peas, but I a few nights ago I forgot to 
 12. Drizzle olive oil and sprinkle more salt, to taste.
 13. Enjoy!
 
-![peasoup](https://rikingurditta.github.io/blog/img/peasoup.png)
+![peasoup](https://rikingurditta.github.io/blog/img/peasoup.jpg)
