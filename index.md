@@ -31,6 +31,7 @@ Here are some extremely short pieces by other people that I like:
 - [*how to misgender yourself for fun* by Sam Bodrojan](https://cchelmetgirl.substack.com/p/how-to-misgender-yourself) - a collection of little things on being trans
 - [*Media Literacy is Not Good Enough* by Sam Bodrojan](https://cchelmetgirl.substack.com/p/against-media-literacy) - a critique of criticism
 - [*30 Rock* by Matthew Goldin](https://matthewgoldin.substack.com/p/30-rock)
+- [*Really Existing Fascism* by Nia Frome](https://redsails.org/really-existing-fascism) - on the continuity of fascism
 
 ### Substack
 
