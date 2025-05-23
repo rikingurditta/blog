@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Broke ass dumb ass recipes - Pea soup"
-colour: "#FF8060"
+colour: "#44AA44"
 ---
 
 # Broke ass dumb ass recipes 🫛
