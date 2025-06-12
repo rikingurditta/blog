@@ -4,10 +4,6 @@ title: "A few short writings"
 colour: "#FF8060"
 ---
 
-I have a few more philosophical and political and personal pieces in the works for this blog, but that’s not stuff I do. This is stuff I do.
-
-------
-
 ## Columnist
 
 I've been reading *The Black Book* by Orhan Pamuk lately and fallen into a common trap - the romance of being an author. I feel I was always meant to be a columnist, rather than a person.

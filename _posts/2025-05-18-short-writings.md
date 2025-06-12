@@ -4,10 +4,6 @@ title: "A few short writings"
 colour: "#FF8060"
 ---
 
-I have a few more philosophical and political and personal pieces in the works for this blog, but that’s not stuff I do. This is stuff I do.
-
-------
-
 ## Late additions
 
 Some late additions to my opps list are: Russell Brand, Anthony Blinken, Jimmy Carter, Lana Del Ray, Sherane from GKMC, the principal in iCarly, the Statue of Liberty, Empress Dowager Cixi, Tim Horton, Aphrodite, J Cole, Nayib Bukele, Frieza, Hannah Arendt, Travis Scott, Zarbon, cracked 19-24 year olds in the US, sneak dissers, playa haters, people who say "Boku No Hero Academia", Dark Souls PvP hackers

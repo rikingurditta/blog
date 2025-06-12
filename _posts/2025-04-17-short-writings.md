@@ -4,10 +4,6 @@ title: "A few short writings"
 colour: "#FF8060"
 ---
 
-I have a few more philosophical and political and personal pieces in  the works for this blog, but that’s not stuff I do. This is stuff I do.
-
----
-
 ## Pros and cons
 
 I'm quite good at sudoku, I can solve most puzzles and I can do so quite quickly. I've learned a lot of techniques for ruling out options in cells, but I can't remember their names - X-wing, swordfish, whatever, I don't know what those mean but I know how to use them. I'd like to write a sudoku solver someday, or maybe just a general graph colouring program. Graph problems are always fun to program!

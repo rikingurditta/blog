@@ -4,10 +4,6 @@ title: "A few short writings"
 colour: "#FF8060"
 ---
 
-I have a few more philosophical and political and personal pieces in the works for this blog, but that’s not stuff I do. This is stuff I do.
-
-------
-
 ## What I would do if I had a lot of money
 
 What I would do if I had a lot of money is, I would finance a production of a gender-swapped but not outfit-swapped *The Lord of the Rings* starring Cate Blanchett, Willem Dafoe, Viola Davis, Yvette Nicole Brown, Brenda Song, and more, with a whole new soundtrack written by Oneohtrix Point Never for three Volca Keys, three Volca FMs, two Volca Drums, and a vocalist (Hannibal Buress, who would also be MC). I would attend this production in a Diane Von Furstenberg and Sailor Moon Cons, and “plain jane” as they say, so as to not be gaudy. I would invite all of my friends, naturally, as well as Hideo Kojima and any transgender women he would like to have as plus-n. Admission to the public would be free but there would be a Berghain-style bouncer who is 3 feet tall. I would hold this event at an Amazon warehouse - no deliveries, sorry! The stage would be constructed out of tightly-packed boxes of inventory. “Fragile”, “This side up”, “🍷” - such things would be like Greek to me. And in this hypothetical I would not nearly be fluent in Greek. I would cheer gleefully as Legolas and Gimli overcome their deeply-entrenched racism while stumbling over a box of fine china that crumples under their feet, or as Gandalf and the Balrog (played by Eminem) fall into a pit below the stage, padded by a delivery package containing a feather pillow that some lazy fuck placed an overnight order for. And when the dust has settled, and we have learned who really is the Lord of the Rings, Roland TR-808s would be handed out to the audience so that we could applaud using claps more beautiful than hands could make. And tears would fill my eyes, and presumably everyone’s, when Dafoe leads the cast in a deep bow, humbled before his audience of the rabble and me (I would stand apart considering I would have a lot of money).
