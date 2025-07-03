@@ -32,6 +32,7 @@ Here are some extremely short pieces by other people that I like:
 - [*Media Literacy is Not Good Enough* by Sam Bodrojan](https://cchelmetgirl.substack.com/p/against-media-literacy) - a critique of criticism
 - [*30 Rock* by Matthew Goldin](https://matthewgoldin.substack.com/p/30-rock)
 - [*Really Existing Fascism* by Nia Frome](https://redsails.org/really-existing-fascism) - on the continuity of fascism
+- [Gender Ternary and Subalternization REBUILD by The Sizhen System](https://substack.com/home/post/p-167307401) - a dialectical-materialist approach to gender theory
 
 ### Substack
 
